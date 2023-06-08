@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working with a team developing an application<br>👯 I’m looking to collaborate with others developers<br>💻 I’m currently learning TypeScript<br>⚡ I'm looking for team working
+🔭 I'm currently working with a team developing an application<br>👯 I’m looking to collaborate with others developers<br>💻 I’m currently learning TypeScript and Unit Testing<br>⚡ I'm looking for team working
 
 
 ## 🌐 Socials:
